@@ -1,5 +1,4 @@
-Chapter 4: Enhancing Supply Chain Management with AI: AI-powered Supplier Selection and Risk Management
-=======================================================================================================
+# AI-powered Supplier Selection and Risk Management
 
 Supply chain management is a critical component of any business, and the use of artificial intelligence (AI) can help businesses optimize their operations and reduce risks. In this chapter, we will explore how AI can be used to enhance supplier selection and risk management in supply chain management.
 

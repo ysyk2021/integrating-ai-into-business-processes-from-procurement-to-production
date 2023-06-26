@@ -1,5 +1,4 @@
-Chapter 1: Understanding AI and Its Applications in Business Processes: What is AI and How Does It Work?
-========================================================================================================
+# What is AI and How Does It Work?
 
 Artificial intelligence (AI) has become a buzzword in recent years, with its potential to transform various industries, including business. In this chapter, we will explore what AI is and how it works.
 
