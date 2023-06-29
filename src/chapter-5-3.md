@@ -35,4 +35,3 @@ Conclusion
 
 AI has the potential to personalize supply chain management and enhance efficiency and productivity. By using machine learning algorithms to analyze customer data, businesses can provide personalized recommendations and experiences. AI can also aid in demand forecasting, inventory control, and transportation optimization, leading to cost savings and improved delivery times.
 
-In the next chapter, we will explore how AI can be used to improve customer service by automating responses to inquiries and identifying areas for improvement.

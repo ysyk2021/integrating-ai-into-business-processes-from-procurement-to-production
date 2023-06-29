@@ -28,4 +28,3 @@ Conclusion
 
 AI has the potential to enhance supply chain management by improving demand forecasting, inventory control, and predictive maintenance. By using machine learning algorithms to analyze and predict customer demand, businesses can optimize inventory levels and reduce waste. Additionally, predictive maintenance can reduce downtime and maintenance costs while improving equipment reliability.
 
-In the next chapter, we will explore how AI can be used to improve customer service by automating responses to inquiries and identifying areas for improvement.

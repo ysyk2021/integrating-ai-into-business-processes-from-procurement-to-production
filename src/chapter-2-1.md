@@ -33,4 +33,4 @@ Once an algorithm has been trained, it can be integrated into various applicatio
 Conclusion
 ----------
 
-AI has become an essential tool for businesses looking to optimize their operations and improve overall efficiency. By understanding what AI is and how it works, you can make informed decisions about integrating AI into your business processes. In the next chapter, we will explore common applications of AI in business processes, including procurement and production.
+AI has become an essential tool for businesses looking to optimize their operations and improve overall efficiency. By understanding what AI is and how it works, you can make informed decisions about integrating AI into your business processes.
