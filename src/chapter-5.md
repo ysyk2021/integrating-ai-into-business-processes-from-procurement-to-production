@@ -1,5 +1,3 @@
-Chapter 4: Enhancing Supply Chain Management with AI
-====================================================
 
 Supply chain management is a critical process for businesses, and the use of AI can help optimize operations and improve overall efficiency. In this chapter, we will explore several ways in which AI can enhance supply chain management.
 

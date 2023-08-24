@@ -1,5 +1,3 @@
-Chapter 2: Designing Your AI-Powered Business Process Strategy
-==============================================================
 
 The integration of artificial intelligence (AI) into business processes has the potential to revolutionize operations, increase efficiency, and improve decision-making. However, designing an effective AI-powered business process strategy requires careful planning and execution. In this chapter, we will explore the steps for creating a personalized business process strategy that leverages AI-powered tools.
 

@@ -1,4 +1,3 @@
-# Using Machine Learning-Powered Analytics for Identifying Process Improvements
 
 Machine learning-powered analytics can provide valuable insights into business processes, allowing companies to identify areas for improvement and optimize their operations. In this chapter, we will explore the benefits of using machine learning-powered analytics for personalized process management and techniques for implementing them.
 

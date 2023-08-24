@@ -1,4 +1,3 @@
-# Using Machine Learning-Powered Demand Forecasting and Inventory Control
 
 Supply chain management is a critical component of business operations, and AI can enhance its efficiency and productivity in numerous ways. In this chapter, we will explore how AI can be used to improve demand forecasting and inventory control through machine learning.
 

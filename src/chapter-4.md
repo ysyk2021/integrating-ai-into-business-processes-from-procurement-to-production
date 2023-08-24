@@ -1,5 +1,3 @@
-Chapter 3: Leveraging Machine Learning for Personalized Process Management
-==========================================================================
 
 Machine learning offers numerous opportunities for businesses to optimize their operations and improve overall efficiency. In this chapter, we will explore several ways in which machine learning can be leveraged for personalized process management.
 

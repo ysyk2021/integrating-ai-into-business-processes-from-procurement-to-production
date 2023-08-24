@@ -1,5 +1,3 @@
-The Role of AI in Business Processes
-==================================================
 
 Artificial intelligence (AI) is transforming the way we approach business processes, from procurement to production. By leveraging machine learning algorithms and data analytics tools, businesses can optimize their operations, reduce errors, and make more informed decisions.
 

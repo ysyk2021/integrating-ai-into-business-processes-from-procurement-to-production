@@ -1,4 +1,3 @@
-# Implementing AI-powered decision-making tools for process management
 
 As businesses continue to integrate artificial intelligence (AI) into their operations, there is a growing need for personalized process management solutions. In this chapter, we will explore how machine learning can be leveraged to create AI-powered decision-making tools for process management.
 
