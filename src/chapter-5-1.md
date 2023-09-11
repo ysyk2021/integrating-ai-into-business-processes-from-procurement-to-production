@@ -1,5 +1,4 @@
-Chapter: Using Machine Learning-Powered Demand Forecasting and Inventory Control
-================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how Machine Learning (ML) can be harnessed to improve demand forecasting and inventory control in business processes. ML algorithms enable organizations to analyze vast amounts of data, identify patterns, and make accurate predictions, leading to optimized inventory levels and improved customer satisfaction. We will delve into various applications of ML in demand forecasting and inventory control, showcasing its potential to transform these critical aspects of business operations.
 

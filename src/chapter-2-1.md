@@ -1,5 +1,4 @@
-Chapter: What is AI and How Does It Work?
-=========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the concept of Artificial Intelligence (AI) and delve into how it works. AI has revolutionized various industries, including business processes from procurement to production. Understanding the fundamentals of AI is crucial for organizations looking to leverage its potential. We will discuss the key concepts, techniques, and approaches that power AI systems.
 

@@ -1,5 +1,4 @@
-Chapter: Addressing Concerns about Privacy and Security when Using AI in Business Processes
-===========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the significant concerns surrounding privacy and security when incorporating AI into business processes across the procurement to production spectrum. While AI offers tremendous potential for enhanced efficiency and decision-making, businesses must address these concerns carefully to ensure the responsible and ethical use of AI technologies. We will discuss key considerations and best practices for mitigating privacy and security risks.
 

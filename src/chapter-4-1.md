@@ -1,5 +1,4 @@
-Chapter: Using Machine Learning-Powered Analytics for Identifying Process Improvements
-======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the application of machine learning-powered analytics in identifying process improvements across various business functions, from procurement to production. Machine learning algorithms can analyze vast amounts of data, uncover patterns, and provide valuable insights that drive operational efficiency and enhance decision-making. We will discuss key considerations and steps involved in leveraging machine learning for process improvement.
 

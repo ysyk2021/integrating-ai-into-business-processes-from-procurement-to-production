@@ -1,5 +1,4 @@
-Chapter: Setting Realistic Goals and Tracking Progress on Your Business Optimization Journey
-============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will dive into the importance of setting realistic goals and tracking progress when integrating AI into business processes from procurement to production. Embarking on a business optimization journey requires a clear vision, well-defined objectives, and a systematic approach to measure and evaluate success. We will explore key steps and strategies for setting realistic goals and effectively tracking progress throughout your optimization journey.
 

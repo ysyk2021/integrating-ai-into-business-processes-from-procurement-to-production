@@ -1,5 +1,4 @@
-Chapter: Personalizing Supply Chain Management with Machine Learning
-====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how Machine Learning (ML) can be used to personalize supply chain management processes. ML algorithms enable organizations to leverage vast amounts of data to make smarter decisions, optimize operations, and enhance customer satisfaction. We will discuss various applications of ML in different stages of the supply chain, illustrating how personalized approaches can drive significant value.
 

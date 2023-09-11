@@ -1,5 +1,4 @@
-Chapter: Future Developments and Trends in AI-Powered Business Processes
-========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the future developments and trends in AI-powered business processes across the procurement to production spectrum. As artificial intelligence (AI) continues to advance rapidly, it offers new possibilities for enhancing operational efficiency, decision-making, and innovation. We will discuss emerging technologies, evolving trends, and their potential impact on business processes.
 
